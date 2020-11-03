@@ -1,0 +1,21 @@
+.firstAndSecondPhotoEdit {
+  border: 5px solid rgb(22, 21, 21);
+  width: 500px;
+  align-content: left;
+}
+
+.lovePhotoEdit {
+  width: 300px;
+  border: 5px solid rgb(22, 21, 21);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+	margin-right: auto;
+}
+
+.margin {
+  margin: 10px;
+} 
+  
